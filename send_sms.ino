@@ -2,7 +2,7 @@
 #include <LGPS.h>
 
 
-#define CellNumber "6506653100"
+#define CellNumber "000000000"
 #define SmsMessage "position" //later change this to the GPS position
 
 double latitude;
